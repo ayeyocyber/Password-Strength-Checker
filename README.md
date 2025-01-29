@@ -14,9 +14,9 @@ This is a simple tool to evaluate the strength of a password based on length and
 You can use my code here: https://www.online-python.com
 
 ## Code: 
-import re
+    import re
 
-def check_password_strength(password):
+    def check_password_strength(password):
     strength = 0
     recommendations = []
 
@@ -53,6 +53,6 @@ def check_password_strength(password):
         for rec in recommendations:
             print(f"- {rec}")
 
-if __name__ == "__main__":
+        if __name__ == "__main__":
     user_password = input("Enter your password: ")
     check_password_strength(user_password)
