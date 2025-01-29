@@ -10,7 +10,7 @@ This is a simple tool to evaluate the strength of a password based on length and
 
 
 ## Usage:
-- Enter your password in the input field and click "Check Strength" to see how strong your password is.
+- Enter your password in the input field and click the 'Enter' key on your desktop to see how strong your password is.
 You can use my code here: https://www.online-python.com
 
 ## Code: 
